@@ -6,11 +6,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Boilerplate laravel 10</title>
+    <title>Boilerplate-laravel-10-clean-architecture-ecr-ecs-terraform</title>
 </head>
 
 <body>
-    <h1>Boilerplate laravel 10</h1>
+    <h1>Boilerplate-laravel-10-clean-architecture-ecr-ecs-terraform</h1>
 </body>
 
 </html>
