@@ -21,7 +21,7 @@ yarn-error.log
 composer.lock
 package-lock.json
 
-/devops/terraform/.terraform/*
-/devops/terraform/terraform.tfstate
-/devops/terraform/.terraform.lock.hcl
-/devops/terraform/docker-compose.yml
+/terraform/.terraform/*
+/terraform/terraform.tfstate
+/terraform/.terraform.lock.hcl
+/terraform/docker-compose.yml
